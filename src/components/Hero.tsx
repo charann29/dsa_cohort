@@ -23,9 +23,10 @@ export default function Hero() {
             </span>
             <Star className="h-6 w-6 text-yellow-400" />
           </div>
-          <h1 className="text-5xl font-extrabold tracking-tight sm:text-7xl mb-8">
-            Master DSA & Competitive Programming
-          </h1>
+          {/* Replace the original h1 and surrounding code with: */}
+<h1 className="text-5xl font-extrabold tracking-tight sm:text-7xl w-full mb-12">
+  Master DSA & Competitive Programming
+</h1>
           <div className="flex justify-center gap-12 mb-12">
             <div className="text-center">
               <div className="text-4xl font-bold text-indigo-400">80+</div>
