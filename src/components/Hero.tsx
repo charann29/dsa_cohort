@@ -19,7 +19,7 @@ export default function Hero() {
           <div className="flex items-center justify-center gap-2 mb-8">
             <Star className="h-6 w-6 text-yellow-400" />
             <span className="text-xl text-yellow-400 font-semibold tracking-wide uppercase">
-              Premium DSA & CP Bootcamp
+              Elevate Intuit Program : Coding 101
             </span>
             <Star className="h-6 w-6 text-yellow-400" />
           </div>
